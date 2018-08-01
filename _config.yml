@@ -1,1 +1,2 @@
-theme: jekyll-theme-cayman
+remote_theme: WebCitation/tzm-jekyll-theme
+theme: tzm-jekyll-theme
