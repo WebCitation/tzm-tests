@@ -3,6 +3,6 @@ theme: jekyll-theme-cayman
 # NOTE: 
 # remote_theme: is always prefered and loaded before theme: no matter where it is placed in this .yml file.
 # There is no need to clear Chrome browser's cache for the remote_theme: or theme: to give an effect, 
-# just wait a few seconds after any commit that changes remote_theme:
+# just wait a few seconds after any commit that changes style hosted in remote_theme:
 # might take up to 40 seconds after the commit, for the changes to be seen.
 remote_theme: benbalter/retlab
