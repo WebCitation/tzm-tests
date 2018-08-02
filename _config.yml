@@ -8,4 +8,7 @@ theme: jekyll-theme-cayman
 # any changes commited to remote_theme:
 # might take up to 40 seconds after the commit, for the changes to be seen.
 #remote_theme: benbalter/retlab
+
+# For the changes in the layout of remote_theme: to show up, there is need to switch back to theme:
+# and then switch back to remote_theme:
 remote_theme: WebCitation/retlab
