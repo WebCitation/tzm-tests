@@ -26,3 +26,10 @@ remote_theme: WebCitation/retlab
 # The Changes quickly began show up: 
 # The reforked repository's theme suddenly showed up
 # then later the theme: has been set
+
+
+# For changes to be seen
+# Comment remote_theme: and Commit
+# let theme: take over
+# Uncomment remote_theme: and Commit
+# See the changes in the Github Pages
