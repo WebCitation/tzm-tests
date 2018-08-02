@@ -1,5 +1,6 @@
 theme: jekyll-theme-cayman
 
 # NOTE: 
-# remote_theme: is always prefered and loaded before theme:
+# remote_theme: is always prefered and loaded before theme: no matter where it is placed in this .yml file.
+# There is no need to clear Chrome browser's cache for the remote_theme: or theme: to give an effect.
 #remote_theme: benbalter/retlab
