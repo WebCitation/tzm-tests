@@ -19,3 +19,8 @@ theme: jekyll-theme-cayman
 
 #Updating _config.yml without commenting remote_theme: and reenabling theme:
 #then later uncommenting remote_theme: the changes won't be seen.
+
+#After commenting remote_theme: 
+# The Changes quickly began show up: 
+# The reforked repository's theme suddenly showed up
+# then later the theme: has been set
