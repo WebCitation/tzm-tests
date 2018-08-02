@@ -11,7 +11,7 @@ theme: jekyll-theme-cayman
 
 # For the changes in the layout of remote_theme: to show up, there is need to switch back to theme:
 # and then switch back to remote_theme:
-remote_theme: WebCitation/retlab
+#remote_theme: WebCitation/retlab
 
 
 #No changes appear in the github page after remote_theme: repository is deleted.
