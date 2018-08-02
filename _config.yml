@@ -15,3 +15,7 @@ remote_theme: WebCitation/retlab
 
 
 #No changes appear in the github page after remote_theme: repository is deleted.
+#No changes appear in the github page after remote_theme: repository is forked again.
+
+#Updating _config.yml without commenting remote_theme: and reenabling theme:
+#then later uncommenting remote_theme: the changes won't be seen.
