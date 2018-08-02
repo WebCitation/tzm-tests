@@ -1,2 +1,5 @@
 theme: jekyll-theme-cayman
-remote_theme: benbalter/retlab
+
+# NOTE: 
+# remote_theme: is always prefered and loaded before theme:
+#remote_theme: benbalter/retlab
